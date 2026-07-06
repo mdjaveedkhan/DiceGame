@@ -1,12 +1,12 @@
 // alert("Welcome to the Dice Game!")
-var player1 = prompt('Please Enter Plauer1 name :')
+var player1 = prompt('Please Enter Player1 name :')
 player1 = player1.toUpperCase()
-var player2 = prompt('Please Enter Plauer2 name :')
+var player2 = prompt('Please Enter Player2 name :')
 player2 = player2.toUpperCase()
 var resultMessage = document.getElementById('resultMessage')
 var image1 = document.querySelectorAll('img')[0]
-document.querySelectorAll('p')[1].innerHTML = player1
-document.querySelectorAll('p')[2].innerHTML = player2
+document.querySelectorAll('p')[2].innerHTML = player1
+document.querySelectorAll('p')[3].innerHTML = player2
 var image2 = document.querySelectorAll('img')[1]
 var rollButton = document.getElementById('rollButton')
 

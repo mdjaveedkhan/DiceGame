@@ -11,8 +11,8 @@ Play the game here: [dicegame.mdjaveedkkhan.me](https://dicegame.mdjaveedkkhan.m
 ## Features
 
 - Random dice roll for two players
-- Winner, loser, or draw result shown instantly
-- Simple setup that runs in any browser
+- Winner or draw result shown instantly
+- Roll the dice with a button instead of refreshing the page
 
 ## How to Play
 
@@ -22,11 +22,11 @@ Play the game here: [dicegame.mdjaveedkkhan.me](https://dicegame.mdjaveedkkhan.m
 
 ## Project Structure
 
-- `index.html` - Main page structure
+- `index.html` - Main page structure and game controls
 - `styles.css` - Page styling
-- `script.js` - Game logic
+- `script.js` - Game logic and dice roll handling
 - `images/` - Dice images used by the game
 
 ## Notes
 
-This project uses a button click to generate new dice rolls.
+The game now uses the Roll Dice button to generate new dice rolls.
