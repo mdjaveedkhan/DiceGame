@@ -18,7 +18,7 @@ Play the game here: [dicegame.mdjaveedkkhan.me](https://dicegame.mdjaveedkkhan.m
 
 1. Open `index.html` in a browser.
 2. Enter both player names when prompted.
-3. Refresh the page to roll the dice and see the result.
+3. Click the Roll Dice button to roll the dice and see the result.
 
 ## Project Structure
 
@@ -29,4 +29,4 @@ Play the game here: [dicegame.mdjaveedkkhan.me](https://dicegame.mdjaveedkkhan.m
 
 ## Notes
 
-This project uses a page refresh to generate new dice rolls.
+This project uses a button click to generate new dice rolls.
